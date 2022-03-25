@@ -1,7 +1,6 @@
 # Craigslist Clone w/ API
 
-### [Live Demo](https://cl-dhcrain.herokuapp.com/)  
-### [API Documentation](https://cl-dhcrain.herokuapp.com/api/docs/)
+
 
 Create a Craigslist clone from front to back.
 
